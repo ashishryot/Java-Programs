@@ -6,11 +6,11 @@ This program finds if there exists an anagram of the given pattern in the string
 # Explanation
 
 Example:
-s="cbaaebca"		p="abc"
-Output will be: [0,5]
-this is because cba is an anagram of abc,
-and bca is also an anagram of abc.
-the starting position of subString cba is 0 and for bca is 5, therefore, we output the result [0,5]
+s="cbaaebca"		p="abc"<br>
+Output will be: [0,5]<br>
+this is because cba is an anagram of abc,<br>
+and bca is also an anagram of abc.<br>
+The starting position of subString cba is 0 and for bca is 5, therefore, we output the result [0,5]
 
 
 ## Language
